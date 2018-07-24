@@ -9,7 +9,12 @@ If the repository does not contain a data folder, [download] a zipped data file 
 ## Collaborators
 
 - Jessica Corman
+<<<<<<< HEAD
 - Sarah Champion
+=======
+- Martina Calovi
+
+>>>>>>> 7345bf0f088b9acc56b2745e5e3899b34b4c2df7
 
 [download]: https://files.sesync.org/pydio/public/09bb83
 [CONTRIBUTING.md]: CONTRIBUTING.md
